@@ -107,6 +107,20 @@ Users can browse services, book appointments, view their bookings, and interact 
 
 ---
 
+
+📸 Screenshots / Demo
+<img width="1916" height="870" alt="Screenshot 2026-02-08 174737" src="https://github.com/user-attachments/assets/581f103f-89d6-4bb6-9df3-dcb30c8ccb5f" />
+<img width="1919" height="841" alt="Screenshot 2026-02-08 174855" src="https://github.com/user-attachments/assets/0fb05724-5d0e-4389-bfcf-578d856e718b" />
+<img width="1916" height="838" alt="Screenshot 2026-02-08 174950" src="https://github.com/user-attachments/assets/35670a62-533f-46f2-9e9f-7cb54ee79ed2" />
+<img width="1909" height="964" alt="Screenshot 2026-02-08 174532" src="https://github.com/user-attachments/assets/be5f5f39-db22-4480-bd8f-3cd0e83896f1" />
+<img width="1917" height="864" alt="Screenshot 2026-02-08 174546" src="https://github.com/user-attachments/assets/f164e6a0-bd10-4f31-94c6-3972f280d22f" />
+<img width="1919" height="866" alt="Screenshot 2026-02-08 174602" src="https://github.com/user-attachments/assets/c58966a3-f248-45fd-b4c6-e825464d7636" />
+<img width="1916" height="869" alt="Screenshot 2026-02-08 174615" src="https://github.com/user-attachments/assets/a37036ab-c685-489b-8005-2c8055535465" />
+<img width="1917" height="869" alt="Screenshot 2026-02-08 174637" src="https://github.com/user-attachments/assets/ecd24ced-b9a9-40ca-8cc1-7e4b9e15eed0" />
+<img width="1919" height="866" alt="Screenshot 2026-02-08 174704" src="https://github.com/user-attachments/assets/6d113dd1-7270-47e9-80da-bdca6c1bf6f0" />
+<img width="1917" height="858" alt="Screenshot 2026-02-08 174725" src="https://github.com/user-attachments/assets/82845046-16d9-4b93-85aa-7003fbb35865" />
+
+
 ## 🗂 **App Flow**
 
 1. **Browse Services:** Users start at the home page and filter/search services  
@@ -163,19 +177,6 @@ yarn dev
 
 Open http://localhost:3000
  in your browser.
-
-📸 Screenshots / Demo
-<img width="1916" height="870" alt="Screenshot 2026-02-08 174737" src="https://github.com/user-attachments/assets/581f103f-89d6-4bb6-9df3-dcb30c8ccb5f" />
-<img width="1919" height="841" alt="Screenshot 2026-02-08 174855" src="https://github.com/user-attachments/assets/0fb05724-5d0e-4389-bfcf-578d856e718b" />
-<img width="1916" height="838" alt="Screenshot 2026-02-08 174950" src="https://github.com/user-attachments/assets/35670a62-533f-46f2-9e9f-7cb54ee79ed2" />
-<img width="1909" height="964" alt="Screenshot 2026-02-08 174532" src="https://github.com/user-attachments/assets/be5f5f39-db22-4480-bd8f-3cd0e83896f1" />
-<img width="1917" height="864" alt="Screenshot 2026-02-08 174546" src="https://github.com/user-attachments/assets/f164e6a0-bd10-4f31-94c6-3972f280d22f" />
-<img width="1919" height="866" alt="Screenshot 2026-02-08 174602" src="https://github.com/user-attachments/assets/c58966a3-f248-45fd-b4c6-e825464d7636" />
-<img width="1916" height="869" alt="Screenshot 2026-02-08 174615" src="https://github.com/user-attachments/assets/a37036ab-c685-489b-8005-2c8055535465" />
-<img width="1917" height="869" alt="Screenshot 2026-02-08 174637" src="https://github.com/user-attachments/assets/ecd24ced-b9a9-40ca-8cc1-7e4b9e15eed0" />
-<img width="1919" height="866" alt="Screenshot 2026-02-08 174704" src="https://github.com/user-attachments/assets/6d113dd1-7270-47e9-80da-bdca6c1bf6f0" />
-<img width="1917" height="858" alt="Screenshot 2026-02-08 174725" src="https://github.com/user-attachments/assets/82845046-16d9-4b93-85aa-7003fbb35865" />
-
 
 
 📝 Notes
